@@ -10,6 +10,7 @@ About Python basic concepts and questions.
 + Zip
 + Enumerate
 + List comprehension
++ Define function
 
 
 ## Updated 
