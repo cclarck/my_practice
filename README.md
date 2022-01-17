@@ -11,6 +11,8 @@ About Python basic concepts and questions.
 + Enumerate
 + List comprehension
 + Define function
++ Lambda
++ Iterable and generator
 
 
 ## Updated 
@@ -18,6 +20,7 @@ About Python basic concepts and questions.
 + 2022/01/10 Add python string, list, tuple files.
 + 2022/01/12 Add python dict, set files.
 + 2022/01/15 Update README.md and add loop, zip, enumerate files.
-+ 2022/01/16 Update README.md and add list comprehension, defin function files.  
++ 2022/01/16 Update README.md and add list comprehension, defin function files.
++ 2022/01/17 Update README.md and add lambda, iterable files.
 
 
