@@ -16,6 +16,7 @@ About Python basic concepts and questions.
 + File read and write
 + Include python script
 + Error and exception
++ sequential and binary search
 
 ## Updated 
 + 2022/01/09 Update README.md and add python string practice files.
@@ -25,5 +26,6 @@ About Python basic concepts and questions.
 + 2022/01/16 Update README.md and add list comprehension, defin function files.
 + 2022/01/17 Update README.md and add lambda, iterable files.
 + 2022/01/19 Update README.md and add file(read, write), include, error, exception.
++ 2022/01/21 Update README.md and add squential, binary search files.
 
 
